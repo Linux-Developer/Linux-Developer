@@ -9,7 +9,7 @@
 
 - 💬 Ask me about C, Cpp, Embedded C,DSA
 
-- 📫 How to reach me kaushikroy1001@gmail.com
+- 📫 How to reach me kaushalmajevadia56@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
